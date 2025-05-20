@@ -6,8 +6,11 @@
 This repository/document highlights my successful completion of the **IBM Machine Learning Professional Certificate**, a comprehensive program offered by IBM and designed to build expertise in machine learning concepts, algorithms, and their practical application.
 
 **Issued by:** IBM
+
 **Platform:** Coursera
+
 **Completed by:** Anuj Chaudhary
+
 **Date of Completion:** 
 
 ---
